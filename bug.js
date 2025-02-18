@@ -1,0 +1,1 @@
+This error occurs when using AsyncStorage in Expo.  The issue stems from attempting to access AsyncStorage before it's fully initialized.  This often manifests during the app's initial loading phase, before the necessary components have been mounted or before the app is fully ready.
